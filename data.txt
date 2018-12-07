@@ -1,0 +1,7 @@
+1, Chang, 18.00, Beverages
+2, Chai, 19.00, Beverages
+3, Genen Shouyu, 15.50, Condiments
+4, Organic Dried Pears, 30.00, Produce
+5, Aniseed Syrup, 10.00, Condiments
+6, Chocolate Biscuits, 40.00, Confections
+7, Cranberry Sauce, 34.00, Condiments
